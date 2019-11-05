@@ -2035,6 +2035,26 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+	/* ADDED BY LILY */
+
+	.skills {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.division {
+		padding-top: 3.6rem;
+		text-align: center;
+	}
+
+	.division h3 {
+		padding: 1.8rem 0;
+	}
+
+	i.big {
+		font-size: 5.4rem;
+	}
+
 /* Image */
 
 	.image {
